@@ -1,5 +1,5 @@
 # cpsc-1710-assignment
-tic tac toe description
+tic tac toe description:
 
 
 
